@@ -6,7 +6,7 @@ BiocManager::install(c("qvalue", "limma", "impute", "imputeLCMD",
                        "DOSE", "clusterProfiler", "topGO", "Rgraphviz"))
 
 
-install.packages(c("missForest", "VIM", "ggplot2", "ggridges", "car", 
+install.packages(c("sourcetools", "missForest", "VIM", "ggplot2", "ggridges", "car", 
                    "Hmisc", "mice", "ggfortify", "reshape2", "cluster", 
                    "stringr", "dplyr", "factoextra", "FactoMineR", "naniar", 
                    "finalfit", "matrixTests", "ggrepel", "tidyr", 
